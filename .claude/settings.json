@@ -1,0 +1,12 @@
+{
+  "project": {
+    "name": "CotizaGo",
+    "language": "pt-PT",
+    "platform": "android-first"
+  },
+  "quality": {
+    "typescriptStrict": true,
+    "requireTestsForCriticalLogic": true,
+    "requireChecklistEvidence": true
+  }
+}
